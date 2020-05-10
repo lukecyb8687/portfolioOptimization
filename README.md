@@ -20,4 +20,4 @@ Below is the architecture of our project:
 - **numpy** 👉 the basic scientific library of Python with built-in math functions and easy array handling
 - **matplotlib** 👉  for graph plotting
 - **pandas** 👉 to manipulate dataframes, a Python object that comes in handy when we manipulate large datasets
- **scipy** 👉 to run an minimization process
+- **scipy** 👉 to run an minimization process
